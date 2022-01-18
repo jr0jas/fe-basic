@@ -1,2 +1,2 @@
 # fe-basic
-Front End Basic Repository
+Fronte-end basic repository example
